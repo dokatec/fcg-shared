@@ -24,6 +24,6 @@ jobs:
                   NUGET_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Pack
-              run: dotnet pack ./src/FCG.Shared/FCG.Shared.csproj --configuration Release -o out
+              run: dotnet pack FCG.Shared.csproj --configuration Release -o out
             - name: Push to GitHub Packages
               run: dotnet nuget push out/*.nupkg --api-key ${{ secrets.GITHUB_TOKEN }} --source "https://nuget.pkg.github.com/${{ github.repository_owner }}/index.json" --skip-duplicate
