@@ -1,0 +1,11 @@
+C:\dev\repo\fiap\Fase_3\FCG.Shared\bin\Debug\net9.0\FCG.Shared.deps.json
+C:\dev\repo\fiap\Fase_3\FCG.Shared\bin\Debug\net9.0\FCG.Shared.dll
+C:\dev\repo\fiap\Fase_3\FCG.Shared\bin\Debug\net9.0\FCG.Shared.pdb
+C:\dev\repo\fiap\Fase_3\FCG.Shared\obj\Debug\net9.0\FCG.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\repo\fiap\Fase_3\FCG.Shared\obj\Debug\net9.0\FCG.Shared.AssemblyInfoInputs.cache
+C:\dev\repo\fiap\Fase_3\FCG.Shared\obj\Debug\net9.0\FCG.Shared.AssemblyInfo.cs
+C:\dev\repo\fiap\Fase_3\FCG.Shared\obj\Debug\net9.0\FCG.Shared.csproj.CoreCompileInputs.cache
+C:\dev\repo\fiap\Fase_3\FCG.Shared\obj\Debug\net9.0\FCG.Shared.dll
+C:\dev\repo\fiap\Fase_3\FCG.Shared\obj\Debug\net9.0\refint\FCG.Shared.dll
+C:\dev\repo\fiap\Fase_3\FCG.Shared\obj\Debug\net9.0\FCG.Shared.pdb
+C:\dev\repo\fiap\Fase_3\FCG.Shared\obj\Debug\net9.0\ref\FCG.Shared.dll
